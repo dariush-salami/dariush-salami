@@ -11,10 +11,7 @@
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-2EC866?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
 
-- 👋 Hi, I’m Dariush
-- 💼 I'm a Data Scientist, a PhD Candidate at Aalto University, and a Marie Skłodowska Curie fellow at ITN-WindMill project.
-- 💬 Talk to me about AI/ML, mmWave Radars, RF sensing, wireless communications, 5G/6G, and last but not the least, fitness :D
-- 👯 I’m interested in broadening my network in the areas I mentioned before. Feel free to connect with me in whatever way you prefer ;)
+I am a data enthusiast with four years of experience in industry as a data scientist and software developer plus three years of experience in research as a PhD researcher and Marie Skłodowska Curie fellow in ML for Wireless Communication. I have both theoretical and practical knowledge of working with Machine Learning and RF Sensing and Communication in development and production environments. I am keen to work in an international environment on large-scale and data-driven projects.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href="https://www.java.com" target="_blank"> 
